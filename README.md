@@ -4,10 +4,10 @@
 
 <h3 align="center">I am a passionate about many things and just like to work on them and figuring out.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yashdaga17&label=Profile%20views&color=0e75b6&style=flat" alt="yashdaga17" /> </p>
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=yashdaga17&label=Profile%20views&color=0e75b6&style=flat" alt="yashdaga17" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashdaga17" alt="yashdaga17" /></a> </p>
-
+-->
 - I am just a Student at **Vellore Institute of Technology, Amravati**
 
 - 🌱 I’m currently learning **a lot of things like Java, JavaScript, Ethical Hacking, App development**
@@ -27,7 +27,8 @@
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/16731093/yash-daga-20bce7323" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/16731093/yash-daga-20bce7323" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/yash.daga.357" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/yash.daga.357" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/_yash_17_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_yash_17_/" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/yashdaga17" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/yashdaga17" height="30" width="40" /></a>
+
+ <!-- <a href="https://www.codechef.com/users/https://www.codechef.com/users/yashdaga17" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/yashdaga17" height="30" width="40" /></a> -->
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/dagayash17/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/dagayash17/profile" height="30" width="40" /></a>
 </p>
 
