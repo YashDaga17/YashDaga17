@@ -2,7 +2,7 @@
 
 ![download](https://user-images.githubusercontent.com/72146802/138732612-44202794-e629-4186-8dba-add082f97469.jpg)
 
-<h3 align="center">I am a passionate about many things and just like to work on them and figuring out.</h3>
+<h3 align="center">I am passionate about many things and just like to work on them and figuring out things.</h3>
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=yashdaga17&label=Profile%20views&color=0e75b6&style=flat" alt="yashdaga17" /> </p>
 
@@ -10,7 +10,7 @@
 -->
 - I am just a Student at **Vellore Institute of Technology, Amravati**
 
-- 🌱 I’m currently learning **a lot of things like Java, JavaScript, Ethical Hacking, App development**
+- 🌱 I’m currently learning **A lot of things like Java, JavaScript, Ethical Hacking, App development**
 
 - 🤝 I’m looking for help with **Anything**
 
