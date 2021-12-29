@@ -1,4 +1,4 @@
- <h1 align="center">Hi 👋 I'm Yash Daga</h1>
+ <h1 align="center">Hi 👋 I'm Yash </h1>
 
 ![download](https://user-images.githubusercontent.com/72146802/138732612-44202794-e629-4186-8dba-add082f97469.jpg)
 
