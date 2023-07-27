@@ -11,11 +11,11 @@
 
 - 🌱 I’m currently learning **A lot of things like Java, JavaScript, Ethical Hacking, App development**
 
-- 🤝 I’m looking for help with **new ideas **
+- 🤝 I’m looking for help with **new ideas**
 
 - 👨‍💻 All of my projects are available at [https://github.com/YashDaga17](https://github.com/YashDaga17)
 
-- 💬 Ask me about **Anime, Tv Shows, Coding **
+- 💬 Ask me about **Anime, Tv Shows, Coding**
 
 - 📫 How to reach me **dagayash17@gmail.com**
 
