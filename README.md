@@ -1,8 +1,7 @@
  <h1 align="center">Hi 👋 I'm Yash </h1>
 
-![download](https://user-images.githubusercontent.com/72146802/138732612-44202794-e629-4186-8dba-add082f97469.jpg)
 
-<h3 align="center">I am passionate about many things and just like to work on them and figuring out things.</h3>
+<h3 align="center">I am passionate about Web Development and Mobile App Development currently exploring new opportunities and gaining new skills.</h3>
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=yashdaga17&label=Profile%20views&color=0e75b6&style=flat" alt="yashdaga17" /> </p>
 
@@ -12,18 +11,18 @@
 
 - 🌱 I’m currently learning **A lot of things like Java, JavaScript, Ethical Hacking, App development**
 
-- 🤝 I’m looking for help with **Anything**
+- 🤝 I’m looking for help with **new ideas **
 
 - 👨‍💻 All of my projects are available at [https://github.com/YashDaga17](https://github.com/YashDaga17)
 
-- 💬 Ask me about **Gaming**
+- 💬 Ask me about **Anime, Tv Shows, Coding **
 
 - 📫 How to reach me **dagayash17@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/https://codepen.io/yash-daga-the-styleful" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/yash-daga-the-styleful" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/yash-daga-5359031b8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yash-daga-5359031b8/" height="30" width="40" /></a>
+<!-- <a href="https://codepen.io/https://codepen.io/yash-daga-the-styleful" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/yash-daga-the-styleful" height="30" width="40" /></a> -->
+<a href="https://www.linkedin.com/in/yashdaga17/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yash-daga-5359031b8/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/16731093/yash-daga-20bce7323" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/16731093/yash-daga-20bce7323" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/yash.daga.357" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/yash.daga.357" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/_yash_17_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_yash_17_/" height="30" width="40" /></a>
