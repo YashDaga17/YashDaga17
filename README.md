@@ -75,7 +75,8 @@
 </div>
 
 ---
-
+<div align="center">
+  
 ## 🎯 **CURRENT MISSION**
 
 <div align="center">
@@ -130,8 +131,7 @@
 </table>
 
 </div>
-
----
+</div>
 
 <div align="center">
 
